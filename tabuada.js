@@ -1,0 +1,1 @@
+//Crie uma função que mostre na tela a tabuada de um número dado como parâmetro.
